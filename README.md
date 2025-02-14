@@ -1,6 +1,3 @@
-# plataforma-crud-cs
-plataforma-crud-cs
-
 # Criando uma API RESTful em C# com .NET Core e SQLite
 
 Este guia explica passo a passo como criar uma API RESTful em **C# com .NET Core** utilizando **SQLite** como banco de dados, sem o uso de ORM, separando a aplicação em **Controle, Domínio e Repositório**.
